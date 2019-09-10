@@ -1,0 +1,86 @@
+name: Romello Skuggs
+type: profile
+description: 'A starter website for Drupal Developers'
+core: 8.x
+
+distribution:
+  name: Romello Skuggs
+  langcode: en
+
+install:
+  - address
+  - admin_toolbar
+  - admin_toolbar_tools
+  - anchor_link
+  - automated_cron
+  - big_pipe
+  - block_content
+  - breakpoint
+  - ckeditor
+  - conditional_fields
+  - config
+  - contextual
+  - crop
+  - datetime
+  - datetime_range
+  - dblog
+  - devel
+  - dynamic_page_cache
+  - editor
+  - editor_advanced_link
+  - entity_browser
+  - entity_browser_enhanced
+  - entity_browser_entity_form
+  - entity_reference_revisions
+  - entity_usage
+  - field
+  - field_group
+  - field_ui
+  - file
+  - filter
+  - focal_point
+  - help
+  - image
+  - inline_entity_form
+  - inline_form_errors
+  - kint
+  - layout_builder
+  - layout_builder_restrictions
+  - layout_discovery
+  - link
+  - link_attributes
+  - linkit
+  - media
+  - media_entity_browser
+  - media_entity_browser_media_library
+  - media_library
+  - menu_ui
+  - metatag
+  - options
+  - page_cache
+  - paragraphs_library
+  - path
+  - quickedit
+  - rdf
+  - redirect
+  - responsive_image
+  - search
+  - settings_tray
+  - system
+  - taxonomy
+  - telephone
+  - text
+  - token
+  - toolbar
+  - twig_tweak
+  - user
+  - views_ui
+  - menu_link_content
+  - paragraphs
+dependencies:
+  - node
+  - block
+  - views
+themes:
+  - claro
+  - bs_subtheme
