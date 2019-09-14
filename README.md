@@ -13,5 +13,10 @@ composer require rjtownsend/romelloskuggs
 
 mkdir -p web/themes/custom && mv themes/custom/bs_subtheme web/themes/custom/bs_subtheme # see https://github.com/drupal-composer/drupal-project/pull/517
 
+# Enabling settings.local.php is recommended during developemnt
+# Uncomment on web/sites/default/settings.php to enable
+
+cp web/sites/example.settings.local.php web/sites/default/settings.local.php
+
 ```
 Navigate to website.local/core/install.php and install as usual. 
