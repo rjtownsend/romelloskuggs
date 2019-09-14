@@ -45,6 +45,7 @@ install:
   - inline_form_errors
   - kint
   - layout_builder
+  - layout_builder_modal
   - layout_builder_restrictions
   - layout_discovery
   - link
