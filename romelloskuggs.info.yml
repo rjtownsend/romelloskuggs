@@ -83,5 +83,5 @@ dependencies:
   - block
   - views
 themes:
-  - claro
+  - adminimal_theme
   - bs_subtheme
