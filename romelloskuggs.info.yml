@@ -64,6 +64,7 @@ install:
   - rdf
   - redirect
   - responsive_image
+  - schema_metatag
   - search
   - settings_tray
   - system
