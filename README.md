@@ -1,6 +1,6 @@
 ## ROMELLO SKUGGS
 
-# A starter website for Drupal Developers
+# A starter website for Drupal 8 Developers
 
 Usage:
 
