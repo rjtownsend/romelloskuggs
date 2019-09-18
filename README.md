@@ -2,6 +2,8 @@
 
 # A starter website for Drupal 8 Developers
 
+Installs and configures core and contrib modules plus a [bootstrap subtheme](https://github.com/rjtownsend/bs_subtheme). 
+
 Usage:
 
 ```
