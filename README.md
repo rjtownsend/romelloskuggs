@@ -4,7 +4,7 @@
 
 Installs and configures core and contrib modules plus a [bootstrap subtheme](https://github.com/rjtownsend/bs_subtheme). 
 Project goal is to provide a starter website for developers and site-builders similar to a starter theme 
-for front-end developers. The ```composer.json``` from the [Romello Skuggs Installer](https://github.com/rjtownsend/romelloskuggs-installer) is recommended. 
+for front-end developers. Using the ```composer.json``` from the [Romello Skuggs Installer](https://github.com/rjtownsend/romelloskuggs-installer) is recommended. 
 
 Usage:
 
@@ -31,7 +31,7 @@ Note: the `composer create-project` command passes ownership of all files to the
 project that is created. You should create a new git repository and commit 
 all files not excluded by the .gitignore file.
 
-## What does composer.json do?
+## What does the Romello Skuggs Installer composer.json do?
 
 When installing ```composer.json``` some tasks are taken care of: 
 
