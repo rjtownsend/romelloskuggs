@@ -4,7 +4,7 @@
 
 Installs and configures core and contrib modules plus a [bootstrap subtheme](https://github.com/rjtownsend/bs_subtheme). 
 Project goal is to provide a starter website for developers and site-builders similar to a starter theme 
-for front-end developers. Composer.json was heavily borrowed from [Composer template for Drupal projects](https://github.com/drupal-composer/drupal-project). 
+for front-end developers. The ```composer.json``` from the [Romello Skuggs Installer](https://github.com/rjtownsend/romelloskuggs-installer) is recommended. 
 
 Usage:
 

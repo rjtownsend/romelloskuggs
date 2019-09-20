@@ -2,11 +2,7 @@
 	"name" : "rjtownsend/romelloskuggs",
 	"description" : "A starter website for Drupal 8 Developers",
 	"type" : "drupal-profile",
-	"license" : "GPL-2.0-or-later",    
-	"authors": [
-        {
-        }
-    ],
+	"license" : "GPL-2.0-or-later",
     "repositories": [
         {
             "type": "composer",
