@@ -79,6 +79,16 @@ install:
   - views_ui
   - menu_link_content
   - paragraphs
+  - webform
+  - webform_attachment
+  - webform_bootstrap
+  - webform_devel
+  - webform_image_select
+  - webform_scheduled_email
+  - webform_shortcuts
+  - webform_submission_log
+  - webform_templates
+  - webform_ui
 dependencies:
   - node
   - block
