@@ -14,7 +14,6 @@ composer create-project rjtownsend/romelloskuggs-installer:8.x-dev some-dir --no
 # Navigate to http://website.local/core/install.php and install as usual
 #
 # Export site config to the config/sync directory
-
 cd some-dir
 drush cex -y
 #
