@@ -12,6 +12,7 @@ install:
   - admin_toolbar
   - admin_toolbar_tools
   - anchor_link
+  - auto_entitylabel
   - automated_cron
   - big_pipe
   - block_content
@@ -62,9 +63,14 @@ install:
   - paragraphs_library
   - path
   - quickedit
+  - rabbit_hole
   - rdf
   - redirect
   - responsive_image
+  - rh_media
+  - rh_node
+  - rh_taxonomy
+  - rh_user
   - schema_metatag
   - search
   - settings_tray
