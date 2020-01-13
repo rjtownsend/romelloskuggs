@@ -1,12 +1,15 @@
+uuid: de57f330-07aa-4cd9-a3d8-8af28db5007d
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bs_subtheme
-id: bs_subtheme_breadcrumbs
-theme: bs_subtheme
+    - bartik
+_core:
+  default_config_hash: zLY4ge21SRsUSIAHX2EVASZ0Qjq09vr6LqHwEzEUD-E
+id: bartik_breadcrumbs
+theme: bartik
 region: content
 weight: -3
 provider: null

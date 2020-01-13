@@ -1,10 +1,13 @@
+uuid: 013429ae-ef00-4ca3-ba37-544f2b64488c
 langcode: en
 status: true
 dependencies:
   theme:
-    - bs_subtheme
-id: bs_subtheme_local_actions
-theme: bs_subtheme
+    - bartik
+_core:
+  default_config_hash: c-SnrhihdSuRaAZ5oz80DnRJtPXJFS-McIi__hM1hMg
+id: bartik_local_actions
+theme: bartik
 region: content
 weight: -4
 provider: null

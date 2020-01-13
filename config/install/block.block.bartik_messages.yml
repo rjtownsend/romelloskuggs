@@ -1,12 +1,15 @@
+uuid: ab645326-1dd2-48df-bb38-059008439059
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bs_subtheme
-id: bs_subtheme_messages
-theme: bs_subtheme
+    - bartik
+_core:
+  default_config_hash: tMGE4YhR--1bO9lDNlu2NOfkHaCbHOkHQukGceaGSGM
+id: bartik_messages
+theme: bartik
 region: highlighted
 weight: 0
 provider: null

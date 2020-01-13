@@ -1,10 +1,13 @@
+uuid: fbfd5834-47a2-416b-a431-2e026f0735a5
 langcode: en
 status: true
 dependencies:
   theme:
-    - bs_subtheme
-id: bs_subtheme_local_tasks
-theme: bs_subtheme
+    - bartik
+_core:
+  default_config_hash: OpCnLBJ-wVzTJAX_5ARU53piG9V31hCLIZvJumHNv9A
+id: bartik_local_tasks
+theme: bartik
 region: content
 weight: -5
 provider: null

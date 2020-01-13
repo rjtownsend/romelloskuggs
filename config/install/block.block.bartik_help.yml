@@ -1,13 +1,16 @@
+uuid: c989bd9f-347c-4e28-8634-494e0882ef41
 langcode: en
 status: true
 dependencies:
   module:
     - help
   theme:
-    - bs_subtheme
-id: bs_subtheme_help
-theme: bs_subtheme
-region: help
+    - bartik
+_core:
+  default_config_hash: twWyt2IiTlz4JfNFevlQZ20dD1r4nepfUjY8O__Kgqg
+id: bartik_help
+theme: bartik
+region: header
 weight: -6
 provider: null
 plugin: help_block
