@@ -23,7 +23,8 @@ drush cex -y
 # Optional: create a subtheme using the subtheme installation script
 # Full instructions for installing can be found here: https://www.drupal.org/project/bootstrap_sass
 # Note the script was updated to chmod 0744 by Composer during installation
-./web/themes/contrib/bootstrap_sass/scripts/create_subtheme.sh
+cd web/themes/contrib/bootstrap_sass
+./scripts/create_subtheme.sh
 #
 # Go and enable your new subtheme through the Drupal UI
 ```
