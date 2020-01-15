@@ -2,9 +2,9 @@
 
 ## A starter website for Drupal 8 Developers
 
-Installs and configures core and contrib modules plus a [bootstrap subtheme](https://github.com/rjtownsend/bs_subtheme). 
+Installs and configures core and contrib modules plus the [bootstrap_sass](https://www.drupal.org/project/bootstrap_sass) theme.
 Project goal is to provide a starter website for developers and site-builders similar to a starter theme 
-for front-end developers. Using the ```composer.json``` from the [Romello Skuggs Installer](https://github.com/rjtownsend/romelloskuggs-installer) is recommended. 
+for front-end developers.
 
 Usage:
 
@@ -19,6 +19,13 @@ drush cex -y
 #
 # Enabling settings.local.php is recommended during development, 
 # Uncomment on web/sites/default/settings.php to enable
+#
+# Optional: create a subtheme using the subtheme installation script
+# Full instructions for installing can be found here: https://www.drupal.org/project/bootstrap_sass
+# Note the script was updated to chmod 0744 by Composer during installation
+./web/themes/contrib/bootstrap_sass/scripts/create_subtheme.sh
+#
+# Go and enable your new subtheme through the Drupal UI
 ```
 
 With `composer require ...` you can download new modules, themes, and other dependencies 

@@ -101,4 +101,4 @@ dependencies:
   - views
 themes:
   - adminimal_theme
-  - bs_subtheme
+  - bartik
