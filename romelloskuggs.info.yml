@@ -17,6 +17,7 @@ install:
   - big_pipe
   - block_content
   - breakpoint
+  - captcha
   - ckeditor
   - conditional_fields
   - config

@@ -17,6 +17,7 @@
     "drupal/auto_entitylabel": "^3.0@beta",
     "drupal/bootstrap_barrio" : "^4.22",
     "drupal/bootstrap_sass" : "^1.9",
+    "drupal/captcha" : "^1.0@beta",
     "drupal/conditional_fields" : "^1.0-alpha6",
     "drupal/devel" : "^2.1",
     "drupal/editor_advanced_link" : "^1.4",
