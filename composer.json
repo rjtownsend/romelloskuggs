@@ -1,5 +1,5 @@
 {
-  "name" : "rjtownsend/romelloskuggs",
+  "name" : "drupal/romelloskuggs",
   "description" : "A starter website for Drupal 8 Developers",
   "type" : "drupal-profile",
   "license" : "GPL-2.0-or-later",
