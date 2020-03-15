@@ -86,6 +86,7 @@ install:
   - views_ui
   - menu_link_content
   - paragraphs
+  - pathauto
   - webform
   - webform_attachment
   - webform_bootstrap
